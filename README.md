@@ -1,0 +1,1 @@
+A hotel chain with multiple bars is facing stockouts of popular items and overstocking of slow-moving ones, leading to higher costs and poor guest experience. Using historical inventory data, the goal is to build a demand forecasting and inventory recommendation system that suggests optimal stock levels and simulates its real-world impact.
